@@ -1,4 +1,4 @@
-# skypilot_ex
+# axon_tutorials
 
 Examples for the Axon deep learning library in Elixir.
 

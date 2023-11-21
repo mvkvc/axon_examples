@@ -1,4 +1,4 @@
-# axon_tutorials
+# axon_examples
 
 Examples for the Axon deep learning library in Elixir.
 
